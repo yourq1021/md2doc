@@ -1,0 +1,41 @@
+page:
+  width_mm: 210
+  height_mm: 297
+
+margins:
+  top_mm: 30
+  bottom_mm: 25
+  left_mm: 30
+  right_mm: 25
+
+normal:
+  chinese: SimSun
+  western: Times New Roman
+  size_pt: 12
+  line_spacing_pt: 20
+
+headings:
+  Heading 1:
+    family: SimHei
+    size_pt: 16
+    align: CENTER
+    space_before_pt: 12
+    space_after_pt: 12
+  Heading 2:
+    family: SimHei
+    size_pt: 14
+    align: LEFT
+    space_before_pt: 12
+    space_after_pt: 12
+  Heading 3:
+    family: SimHei
+    size_pt: 12
+    align: LEFT
+    space_before_pt: 12
+    space_after_pt: 12
+
+header:
+  text: 复旦大学硕士学位论文
+  family: SimSun
+  size_pt: 9
+
